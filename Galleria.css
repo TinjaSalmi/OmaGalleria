@@ -1,0 +1,38 @@
+.navbar{
+    position: static;
+    width: 100%;
+    background-color: black !important;
+  }
+  
+  .nav-link{
+    color: rgb(166, 100, 253) !important;
+    font-family: monospace !important;
+    font-size: 16px !important;
+  }
+  
+  .nav-link:hover{
+    color: rgb(181, 169, 255) !important;
+  }
+  
+  
+  
+  h1 {
+      color: rgb(255, 255, 255);
+      font-family: 'Times New Roman', Times, serif;
+      font-size: large;
+      text-align: center;
+  }
+  
+  .no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+  }
+  
+  footer{
+    background-color: rgb(166, 100, 253);
+      color: rgb(1, 0, 7);
+      height: 25px;
+      text-align: center;
+      font-family: monospace;
+      font-size: 13px;
+  }
